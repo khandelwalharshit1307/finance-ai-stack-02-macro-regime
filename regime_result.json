@@ -1,0 +1,11 @@
+{
+  "date": "2026-03-01",
+  "dominant": "Deflation",
+  "confidence": 98.3,
+  "probs": {
+    "Deflation": 98.3,
+    "Goldilocks": 0.7,
+    "Stagflation": 0.7,
+    "Reflation": 0.3
+  }
+}

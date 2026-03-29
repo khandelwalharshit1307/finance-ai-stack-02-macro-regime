@@ -1,0 +1,35 @@
+{
+  "regime_date": "2026-03-01",
+  "dominant": "Deflation",
+  "confidence": 98.3,
+  "probs": {
+    "Deflation": 98.3,
+    "Goldilocks": 0.7,
+    "Stagflation": 0.7,
+    "Reflation": 0.3
+  },
+  "narrative": "Earnings growth is under pressure with the unemployment rate at 4.4% and real GDP YoY at 0.7%, while inflation signals, such as the 5Y breakeven inflation rate of 2.56%, also indicate a slowing economy. The most important tension is between the flat 3M/10Y yield curve and the low breakeven gap of -0.16%, suggesting bond markets expect lower inflation and interest rates, yet the deflation regime signal points to weak economic growth and potentially rising deflationary pressures. One key data release to watch in the coming weeks is the next Employment Situation report, due to be released on April 6th, as it will provide a timely update on labor market conditions and influence the assessment of deflation regime probability.",
+  "indicators": {
+    "date": "March 2026",
+    "spread_3m10y": 0.71,
+    "spread_2y10y": 0.56,
+    "cpi_yoy": 2.4,
+    "core_cpi_yoy": 2.4,
+    "breakeven_5y": 2.56,
+    "unemployment": 4.4,
+    "gdp_yoy": 0.7,
+    "recession_prob": 0.8,
+    "inversion_flag": 0,
+    "inversion_duration": 0,
+    "breakeven_gap": -0.16
+  },
+  "implications": {
+    "Equities": "Weak \u2014 earnings under pressure, defensive names only",
+    "Bonds": "Strong \u2014 duration rallies as yields fall",
+    "Gold": "Moderate \u2014 safe haven bid but no inflation premium",
+    "Commodities": "Weak \u2014 demand destruction hits prices",
+    "USD": "Strong \u2014 flight to safety and liquidity",
+    "Credit": "Weak \u2014 HY spreads blow out, default cycle begins"
+  },
+  "generated_at": "2026-03-29 12:37:37"
+}
