@@ -1,0 +1,9 @@
+fredapi
+yfinance
+xgboost
+scikit-learn
+anthropic
+streamlit
+pandas
+plotly
+python-dotenv
